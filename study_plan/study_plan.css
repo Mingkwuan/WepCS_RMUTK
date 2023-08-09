@@ -1,0 +1,16 @@
+.study_plan{
+    display: block;
+    padding: 0 2% 0 2%;
+}
+.SP{
+    text-align: center;
+    margin-left: 25px;
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 10px;
+}
+h3{
+
+    margin-left: 10px;
+    margin-bottom: 0;
+}

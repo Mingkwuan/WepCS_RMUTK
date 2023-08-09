@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anuphan&display=swap');
+
+.CS_IT{
+    font-family: 'Merriweather', serif;
+}
+.FR_RU{
+    font-family: 'Chakra Petch', sans-serif;
+}
+.mian_class{
+    display: flex;
+}   
+.mian{
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 0;
+    background-color: #FBEEAC;
+    width: 590px;
+    border: 5px ridge #272829;
+}
+.img_rmutk{
+    margin-top: 5px;
+    width: 570px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+.CS{
+    color: #272829;
+    margin: 14px;
+}
+.fr{
+    color: #272829;
+    margin: 14px;
+}
+.UTK_SCI{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.tap{
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    margin-top: 5px;
+    background-color: #FFCACC;
+    text-align: left;
+    color: #1D5D9B;
+    border-top: solid;
+    border-bottom: solid;
+}
+.toppic{
+    font-family: 'Anuphan', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu{
+    font-size: 30px;
+    width: 220px;
+    height: 70px;  
+    background-color: #16FF00;
+    border: ridge;
+    border-radius: 45%;
+    line-height: 70px;
+    margin: -20px;
+}
+footer{
+    display: block;
+    clear: both;
+    background: #4B4B4B;
+    color: #FFFFFF;
+
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.details{
+    font-family: 'Noto Sans Thai', sans-serif;
+}

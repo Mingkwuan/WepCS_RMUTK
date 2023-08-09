@@ -1,0 +1,28 @@
+.home_page{
+    display: block;
+    padding: 0 2% 0 2%;
+}
+.news{
+    text-align: center;
+    margin-left: 25px;
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 10px;
+}
+.text00{
+    color: #2B2730;
+    margin-left: 60px;
+}
+.message{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img_ms{
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
